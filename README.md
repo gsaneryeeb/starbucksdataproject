@@ -1,4 +1,4 @@
-# starbucksdataproject
+# Starbucks Data Project
 ![starbucks.png](starbucks.png)
 Some analysis of Starbucks data
 
